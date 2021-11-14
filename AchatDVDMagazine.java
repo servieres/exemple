@@ -6,6 +6,7 @@
  * _________________________________________________________________________________*
  */
 
+// essai de merge request
 
 /*
  * Calcul du prix d'achat de DVD et magazines
