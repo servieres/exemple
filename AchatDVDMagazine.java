@@ -7,6 +7,8 @@
  */
 
 
+// deuxieme essai contribution
+
 /*
  * Calcul du prix d'achat de DVD et magazines
  * AchatDVDMagazine.java                                           11/21
