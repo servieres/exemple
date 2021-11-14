@@ -9,7 +9,7 @@
 
 /*
  * Calcul du prix d'achat de DVD et magazines
- * AchatDVDMagazine.java                                           10/15
+ * AchatDVDMagazine.java                                           10/21
  */
 package notiondebase.affectation;
 import java.util.Scanner;
